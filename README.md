@@ -1,2 +1,2 @@
 # Java
-Java Practic
+Java Prac

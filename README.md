@@ -1,3 +1,2 @@
 # Java
 Java Practices
-s
